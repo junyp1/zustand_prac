@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Zustand Practice</title>
+        <title>For Zustand Practice</title>
         <meta name="description" content="learning zustand" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
